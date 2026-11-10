@@ -12,6 +12,7 @@
 
 ## Features
 
+* **Online Discovery & Sharing**: Explore new music online and seamlessly share your favorite tracks and musical discoveries with other users.
 * **High-Fidelity Audio**: Delivers crisp, rich sound playback with dynamic audio output for an immersive listening experience.
 * **Real-Time Synced Lyrics**: Displays perfectly synchronized lyrics with smooth line-by-line scrolling that tracks your song precisely.
 * **Smart Sleep Timer**: Set custom countdowns with quick increment controls ($\pm 5$ min) to auto-stop playback seamlessly.
