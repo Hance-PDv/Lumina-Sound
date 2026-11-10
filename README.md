@@ -5,11 +5,7 @@
 <h1 align="center">Lumina Sound</h1>
 
 <p align="center">
-  <b>Lumina Sound is a refined, full-featured music player designed to give you total control over your audio library. Wrapped in a modern aesthetic, it delivers uncompromised sound performance through a smooth, ad-free interface tailored completely to your listening preferences.</b>
-</p>
-
-<p align="center">
-  <i>Lumina Sound: Your music, your way.</i>
+  <b>Lumina Sound is a refined music player giving you total control over your audio library through a smooth, ad-free interface tailored to your preferences.</b>
 </p>
 
 ---
@@ -33,41 +29,41 @@
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/1Lumina.png" width="100%" />
         <br />
-        <b>Home</b>
+        <b>1 Home</b>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/2Lumina.png" width="100%" />
         <br />
-        <b>Player</b>
+        <b>2 Discovery</b>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/3Lumina.png" width="100%" />
         <br />
-        <b>Lyrics</b>
+        <b>3 Player</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/4Lumina.png" width="100%" />
         <br />
-        <b>Library</b>
+        <b>4 Lyrics</b>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/5Lumina.png" width="100%" />
         <br />
-        <b>Favorite</b>
+        <b>5 Library</b>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/6Lumina.png" width="100%" />
         <br />
-        <b>Stats</b>
+        <b>6 Favorite</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/7Lumina.png" width="100%" />
         <br />
-        <b>Settings</b>
+        <b>7 Stats</b>
       </td>
       <td align="center" width="33%"></td>
       <td align="center" width="33%"></td>
