@@ -29,41 +29,41 @@
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/1Lumina.png" width="100%" />
         <br />
-        <b>1 Home</b>
+        <b>Home</b>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/2Lumina.png" width="100%" />
         <br />
-        <b>2 Discovery</b>
+        <b>Discovery</b>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/3Lumina.png" width="100%" />
         <br />
-        <b>3 Player</b>
+        <b>Player</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/4Lumina.png" width="100%" />
         <br />
-        <b>4 Lyrics</b>
+        <b>Lyrics</b>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/5Lumina.png" width="100%" />
         <br />
-        <b>5 Library</b>
+        <b>Library</b>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/6Lumina.png" width="100%" />
         <br />
-        <b>6 Favorite</b>
+        <b>Favorite</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/7Lumina.png" width="100%" />
         <br />
-        <b>7 Stats</b>
+        <b>Stats</b>
       </td>
       <td align="center" width="33%"></td>
       <td align="center" width="33%"></td>
