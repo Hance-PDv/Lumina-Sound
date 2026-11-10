@@ -1,0 +1,101 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/rootLayout"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="?attr/colorSurface"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/layoutHeader"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center_vertical"
+		android:orientation="horizontal"
+		android:paddingHorizontal="16dp"
+		android:paddingVertical="12dp">
+		<FrameLayout
+			android:id="@+id/cardview18"
+			android:layout_width="46dp"
+			android:layout_height="46dp"
+			android:background="@drawable/bg_glass_button_secondary"
+			android:focusable="true">
+			<ImageView
+				android:id="@+id/btnBack"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:padding="11dp"
+				android:src="@drawable/icon_arrow"
+				android:scaleType="fitCenter"
+				app:tint="?attr/colorOnSurface" />
+		</FrameLayout>
+		<TextView
+			android:id="@+id/txtTitle"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Artists"
+			android:textSize="22sp"
+			android:textStyle="bold"
+			android:layout_marginStart="16dp" />
+	</LinearLayout>
+	<ScrollView
+		android:id="@+id/nestedScrollView"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:fillViewport="true"
+		android:scrollbars="none"
+		android:overScrollMode="never">
+		<RelativeLayout
+			android:id="@+id/relativelayout1"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:paddingHorizontal="10dp">
+			<LinearLayout
+				android:id="@+id/NoMusicFoundLayout"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:padding="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="vertical"
+				android:visibility="gone">
+				<ImageView
+					android:id="@+id/NoMusicFoundLayoutIcon"
+					android:layout_width="115dp"
+					android:layout_height="115dp"
+					android:layout_marginBottom="8dp"
+					android:src="@drawable/icon_music"
+					android:scaleType="fitCenter"
+					app:tint="?attr/colorOnSurfaceVariant" />
+				<TextView
+					android:id="@+id/NoMusicFoundLayoutTitle"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="4dp"
+					android:text="No artists"
+					android:textSize="18sp"
+					android:textStyle="bold" />
+				<TextView
+					android:id="@+id/NoMusicFoundLayoutDesc"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:paddingLeft="5dp"
+					android:paddingRight="5dp"
+					android:text="It will appear auto"
+					android:textSize="14sp" />
+			</LinearLayout>
+			<GridView
+				android:id="@+id/gridview1"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:numColumns="2"
+				android:verticalSpacing="10dp"
+				android:horizontalSpacing="10dp"
+				android:stretchMode="columnWidth"
+				android:scrollbars="none"
+				android:overScrollMode="never"
+				android:nestedScrollingEnabled="false"
+				tools:listitem="@layout/art" />
+		</RelativeLayout>
+	</ScrollView>
+</LinearLayout>

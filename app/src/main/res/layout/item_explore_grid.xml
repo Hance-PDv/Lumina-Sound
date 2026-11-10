@@ -1,0 +1,58 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:id="@+id/linearm"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical"
+	android:background="@drawable/bg_glass_card_glossy"
+	android:padding="10dp"
+	android:layout_margin="6dp"
+	android:clickable="true"
+	android:focusable="true">
+
+	<androidx.cardview.widget.CardView
+		android:id="@+id/card_art"
+		android:layout_width="match_parent"
+		android:layout_height="160dp"
+		app:cardCornerRadius="18dp"
+		app:cardElevation="0dp"
+		app:cardBackgroundColor="@android:color/transparent">
+
+		<ImageView
+			android:id="@+id/img_music"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:scaleType="centerCrop"
+			android:src="@drawable/default_music_image" />
+
+	</androidx.cardview.widget.CardView>
+
+	<TextView
+		android:id="@+id/title"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="8dp"
+		android:layout_marginStart="2dp"
+		android:layout_marginEnd="2dp"
+		android:gravity="center"
+		android:ellipsize="end"
+		android:maxLines="1"
+		android:textColor="?attr/colorOnSurface"
+		android:textSize="14sp"
+		android:textStyle="bold" />
+
+	<TextView
+		android:id="@+id/artist"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="2dp"
+		android:layout_marginStart="2dp"
+		android:layout_marginEnd="2dp"
+		android:gravity="center"
+		android:ellipsize="end"
+		android:maxLines="1"
+		android:textColor="?attr/colorOnSurfaceVariant"
+		android:textSize="12sp" />
+
+</LinearLayout>
