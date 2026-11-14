@@ -12,7 +12,7 @@
 
 ## Features
 
-* **Online Discovery & Sharing**: Explore new music online and seamlessly share your favorite tracks and musical discoveries with other users.
+* **YouTube Music Integration**: Log in directly with your YouTube Music account to stream your music, access your library, and enjoy seamless playback.
 * **High-Fidelity Audio**: Delivers crisp, rich sound playback with dynamic audio output for an immersive listening experience.
 * **Real-Time Synced Lyrics**: Displays perfectly synchronized lyrics with smooth line-by-line scrolling that tracks your song precisely.
 * **Smart Sleep Timer**: Set custom countdowns with quick increment controls ($\pm 5$ min) to auto-stop playback seamlessly.
@@ -66,7 +66,11 @@
         <br />
         <b>Stats</b>
       </td>
-      <td align="center" width="33%"></td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/1Setting.png" width="100%" />
+        <br />
+        <b>Setting</b>
+      </td>
       <td align="center" width="33%"></td>
     </tr>
   </table>
