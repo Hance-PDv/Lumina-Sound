@@ -28,7 +28,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/1Lumina.png" width="100%" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Lumina-Sound/refs/heads/main/Screenshot/1Sound.png" width="100%" />
         <br />
         <b>Home</b>
       </td>
